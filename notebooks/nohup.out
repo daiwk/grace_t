@@ -1,0 +1,489 @@
++ ipython notebook
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+[I 19:37:25.483 NotebookApp] Serving notebooks from local directory: /Users/daiwenkai/Documents/my dirs/legacy/notebooks
+[I 19:37:25.483 NotebookApp] The Jupyter Notebook is running at:
+[I 19:37:25.483 NotebookApp] http://localhost:8888/?token=58351ad882af29c719c653b2cb79b66301ec2061e5f9cc5f
+[I 19:37:25.483 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 19:37:25.484 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=58351ad882af29c719c653b2cb79b66301ec2061e5f9cc5f
+[I 19:37:25.672 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 19:38:00.035 NotebookApp] 404 GET /api/kernels/2f2d3421-5c60-46d6-b06b-65ce3805ce1e/channels?session_id=a013fb3b67f8460aad5a23d71f861cee (::1): Kernel does not exist: 2f2d3421-5c60-46d6-b06b-65ce3805ce1e
+[W 19:38:00.042 NotebookApp] 404 GET /api/kernels/2f2d3421-5c60-46d6-b06b-65ce3805ce1e/channels?session_id=a013fb3b67f8460aad5a23d71f861cee (::1) 19.56ms referer=None
+[W 19:39:03.966 NotebookApp] Notebook sentiment-movie-review.ipynb is not trusted
+[I 19:39:04.882 NotebookApp] Kernel started: 3724868b-b2ec-4a68-80ea-6be717eec5ca
+[I 19:39:06.493 NotebookApp] Adapting to protocol v5.1 for kernel 3724868b-b2ec-4a68-80ea-6be717eec5ca
+[W 19:39:08.302 NotebookApp] Replacing stale connection: 2f2d3421-5c60-46d6-b06b-65ce3805ce1e:a013fb3b67f8460aad5a23d71f861cee
+[I 19:41:04.966 NotebookApp] Saving file at /sentiment-movie-review.ipynb
+[W 19:41:04.966 NotebookApp] Notebook sentiment-movie-review.ipynb is not trusted
+[I 01:08:29.507 NotebookApp] Creating new notebook in 
+[I 01:08:30.427 NotebookApp] Kernel started: 771d2b52-55a0-4681-9b78-eac34e0c96db
+[I 01:08:31.588 NotebookApp] Adapting to protocol v5.1 for kernel 771d2b52-55a0-4681-9b78-eac34e0c96db
+[I 01:10:32.277 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:37:35.380 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:38:39.835 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:39:35.385 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:41:35.385 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:43:35.393 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:45:35.396 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:51:35.407 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:53:35.412 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:11:35.735 NotebookApp] Saving file at /Untitled.ipynb
+2018-10-02 13:13:01.164182: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 13:13:35.743 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:15:35.747 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:17:35.753 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:19:35.755 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:21:35.929 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:24:59.355 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:29:35.919 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 14:33:36.454 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 21:17:10.638 NotebookApp] Creating new notebook in 
+[I 21:17:11.720 NotebookApp] Kernel started: 0ea23a4f-fc92-4508-901c-527acdbd719f
+[I 21:17:12.787 NotebookApp] Adapting to protocol v5.1 for kernel 0ea23a4f-fc92-4508-901c-527acdbd719f
+[I 21:19:11.695 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:21:11.701 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:23:11.710 NotebookApp] Saving file at /Untitled.ipynb
+2018-10-02 21:24:12.039030: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 21:25:11.713 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:31:11.724 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:33:11.727 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:35:12.038 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:35:27.803 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:36:18.709 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 21:38:18.688 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 21:40:18.682 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 21:42:18.686 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 21:44:18.695 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 21:48:18.704 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 21:50:18.710 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 22:00:18.728 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 22:02:18.739 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 22:04:18.738 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 22:16:18.770 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 22:18:18.772 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 22:30:18.808 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 22:32:18.808 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 22:34:18.814 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 22:40:18.827 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 22:42:18.844 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 22:43:22.771 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 22:46:18.841 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 22:48:18.848 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 23:00:18.875 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 23:12:18.902 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 23:14:20.407 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 23:16:18.909 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 23:18:18.916 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 23:20:18.921 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 23:22:18.933 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 23:22:32.511 NotebookApp] Creating new notebook in 
+[I 23:22:33.656 NotebookApp] Kernel started: afe5ad7a-1a7f-4fdb-a535-6746b56a9c16
+[I 23:22:34.674 NotebookApp] Adapting to protocol v5.1 for kernel afe5ad7a-1a7f-4fdb-a535-6746b56a9c16
+2018-10-02 23:22:38.162201: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 23:24:33.666 NotebookApp] Saving file at /Untitled1.ipynb
+[I 23:24:58.916 NotebookApp] Kernel interrupted: afe5ad7a-1a7f-4fdb-a535-6746b56a9c16
+[I 23:25:05.417 NotebookApp] Starting buffering for afe5ad7a-1a7f-4fdb-a535-6746b56a9c16:587fa9499cb243818bb3ab1387eba7ef
+[I 23:25:06.049 NotebookApp] Kernel restarted: afe5ad7a-1a7f-4fdb-a535-6746b56a9c16
+[I 23:25:06.837 NotebookApp] Adapting to protocol v5.1 for kernel afe5ad7a-1a7f-4fdb-a535-6746b56a9c16
+[I 23:25:06.840 NotebookApp] Restoring connection for afe5ad7a-1a7f-4fdb-a535-6746b56a9c16:587fa9499cb243818bb3ab1387eba7ef
+[I 23:25:06.840 NotebookApp] Replaying 6 buffered messages
+2018-10-02 23:25:11.620525: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 23:26:05.581 NotebookApp] Saving file at /Untitled1.ipynb
+[I 23:26:15.756 NotebookApp] Starting buffering for afe5ad7a-1a7f-4fdb-a535-6746b56a9c16:587fa9499cb243818bb3ab1387eba7ef
+[I 23:26:16.383 NotebookApp] Kernel restarted: afe5ad7a-1a7f-4fdb-a535-6746b56a9c16
+[I 23:26:17.203 NotebookApp] Adapting to protocol v5.1 for kernel afe5ad7a-1a7f-4fdb-a535-6746b56a9c16
+[I 23:26:17.205 NotebookApp] Restoring connection for afe5ad7a-1a7f-4fdb-a535-6746b56a9c16:587fa9499cb243818bb3ab1387eba7ef
+[I 23:26:17.206 NotebookApp] Replaying 3 buffered messages
+[I 23:26:33.662 NotebookApp] Saving file at /Untitled1.ipynb
+2018-10-02 23:26:42.635103: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 23:28:34.306 NotebookApp] Saving file at /Untitled1.ipynb
+[I 23:29:46.061 NotebookApp] Saving file at /basic-tf-matmul.ipynb
+[I 23:29:58.438 NotebookApp] Starting buffering for afe5ad7a-1a7f-4fdb-a535-6746b56a9c16:587fa9499cb243818bb3ab1387eba7ef
+[I 23:29:59.276 NotebookApp] Kernel restarted: afe5ad7a-1a7f-4fdb-a535-6746b56a9c16
+[I 23:30:00.059 NotebookApp] Adapting to protocol v5.1 for kernel afe5ad7a-1a7f-4fdb-a535-6746b56a9c16
+[I 23:30:00.062 NotebookApp] Restoring connection for afe5ad7a-1a7f-4fdb-a535-6746b56a9c16:587fa9499cb243818bb3ab1387eba7ef
+[I 23:30:00.062 NotebookApp] Replaying 3 buffered messages
+2018-10-02 23:30:03.787031: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 23:30:13.307 NotebookApp] Saving file at /Untitled1.ipynb
+[I 23:31:37.446 NotebookApp] Starting buffering for 771d2b52-55a0-4681-9b78-eac34e0c96db:17a5b4ae27a94df6b9eff37c21602294
+[I 23:32:07.758 NotebookApp] Adapting to protocol v5.1 for kernel 771d2b52-55a0-4681-9b78-eac34e0c96db
+[I 23:32:19.443 NotebookApp] Starting buffering for 771d2b52-55a0-4681-9b78-eac34e0c96db:1acb3299e33f45b38297e7a09887d679
+[I 23:32:20.474 NotebookApp] Starting buffering for afe5ad7a-1a7f-4fdb-a535-6746b56a9c16:587fa9499cb243818bb3ab1387eba7ef
+[I 23:32:23.911 NotebookApp] Adapting to protocol v5.1 for kernel 0ea23a4f-fc92-4508-901c-527acdbd719f
+[I 23:36:23.907 NotebookApp] Saving file at /tf-basic-ExponentialMovingAverage.ipynb
+[I 23:38:23.919 NotebookApp] Saving file at /tf-basic-ExponentialMovingAverage.ipynb
+[I 23:40:23.917 NotebookApp] Saving file at /tf-basic-ExponentialMovingAverage.ipynb
+[I 23:42:23.926 NotebookApp] Saving file at /tf-basic-ExponentialMovingAverage.ipynb
+[I 23:44:23.928 NotebookApp] Saving file at /tf-basic-ExponentialMovingAverage.ipynb
+[I 23:46:23.933 NotebookApp] Saving file at /tf-basic-ExponentialMovingAverage.ipynb
+[I 23:48:23.935 NotebookApp] Saving file at /tf-basic-ExponentialMovingAverage.ipynb
+[I 23:49:26.054 NotebookApp] Saving file at /tf-basic-ExponentialMovingAverage.ipynb
+[I 23:49:28.579 NotebookApp] Starting buffering for 0ea23a4f-fc92-4508-901c-527acdbd719f:c30e7b86248942329c335a861ce2d75f
+[I 23:27:34.940 NotebookApp] Creating new notebook in 
+[I 23:27:36.024 NotebookApp] Kernel started: 989447ff-ed12-451d-a7c8-1d3aea481294
+[I 23:27:37.167 NotebookApp] Adapting to protocol v5.1 for kernel 989447ff-ed12-451d-a7c8-1d3aea481294
+[I 23:29:35.990 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 23:30:00.755 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 23:47:36.031 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 23:49:36.037 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 23:51:36.041 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 23:53:36.047 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 23:57:36.056 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 23:59:36.062 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 00:01:36.066 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 00:01:53.071 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 00:02:49.795 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 00:03:36.075 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 00:05:36.077 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 00:07:36.082 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 00:09:36.086 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 00:11:35.202 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 00:12:30.124 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 00:13:02.044 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+2018-10-04 00:13:03.095627: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 00:13:36.098 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 00:15:36.098 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 00:17:36.106 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 00:19:36.113 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 00:21:36.116 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 00:23:36.121 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 10:32:50.948 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 10:34:50.635 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 10:44:50.651 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:26:11.851 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:26:49.642 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:28:49.652 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:29:37.935 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:46:49.692 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:48:49.702 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:50:49.708 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:52:49.708 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:53:01.404 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:53:10.501 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:53:31.486 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:53:43.913 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:54:36.319 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:54:49.711 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:55:01.737 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:56:49.722 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 12:58:49.722 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 13:00:43.732 NotebookApp] Starting buffering for 989447ff-ed12-451d-a7c8-1d3aea481294:91f605f581404f689d2b9a868197243a
+[I 13:00:44.776 NotebookApp] Kernel restarted: 989447ff-ed12-451d-a7c8-1d3aea481294
+[I 13:00:45.638 NotebookApp] Adapting to protocol v5.1 for kernel 989447ff-ed12-451d-a7c8-1d3aea481294
+[I 13:00:45.641 NotebookApp] Restoring connection for 989447ff-ed12-451d-a7c8-1d3aea481294:91f605f581404f689d2b9a868197243a
+[I 13:00:45.641 NotebookApp] Replaying 3 buffered messages
+[I 13:00:49.728 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 13:02:49.732 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 13:04:49.736 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 13:06:49.750 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 13:06:52.824 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 13:07:14.460 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 13:08:49.751 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 13:41:55.378 NotebookApp] Starting buffering for 989447ff-ed12-451d-a7c8-1d3aea481294:91f605f581404f689d2b9a868197243a
+[I 13:41:56.219 NotebookApp] Kernel restarted: 989447ff-ed12-451d-a7c8-1d3aea481294
+[I 13:41:57.065 NotebookApp] Adapting to protocol v5.1 for kernel 989447ff-ed12-451d-a7c8-1d3aea481294
+[I 13:41:57.067 NotebookApp] Restoring connection for 989447ff-ed12-451d-a7c8-1d3aea481294:91f605f581404f689d2b9a868197243a
+[I 13:41:57.067 NotebookApp] Replaying 5 buffered messages
+[I 13:42:49.836 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 13:48:49.844 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 13:50:49.847 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 13:51:35.498 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 13:52:49.856 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 13:54:08.198 NotebookApp] Starting buffering for 989447ff-ed12-451d-a7c8-1d3aea481294:91f605f581404f689d2b9a868197243a
+[I 13:54:08.931 NotebookApp] Kernel restarted: 989447ff-ed12-451d-a7c8-1d3aea481294
+[I 13:54:09.833 NotebookApp] Adapting to protocol v5.1 for kernel 989447ff-ed12-451d-a7c8-1d3aea481294
+[I 13:54:09.835 NotebookApp] Restoring connection for 989447ff-ed12-451d-a7c8-1d3aea481294:91f605f581404f689d2b9a868197243a
+[I 13:54:09.835 NotebookApp] Replaying 6 buffered messages
+[I 13:54:49.862 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 13:55:24.707 NotebookApp] Starting buffering for 989447ff-ed12-451d-a7c8-1d3aea481294:91f605f581404f689d2b9a868197243a
+[I 13:55:25.337 NotebookApp] Kernel restarted: 989447ff-ed12-451d-a7c8-1d3aea481294
+[I 13:55:26.144 NotebookApp] Adapting to protocol v5.1 for kernel 989447ff-ed12-451d-a7c8-1d3aea481294
+[I 13:55:26.145 NotebookApp] Restoring connection for 989447ff-ed12-451d-a7c8-1d3aea481294:91f605f581404f689d2b9a868197243a
+[I 13:55:26.145 NotebookApp] Replaying 6 buffered messages
+[I 13:55:26.276 NotebookApp] Starting buffering for 989447ff-ed12-451d-a7c8-1d3aea481294:91f605f581404f689d2b9a868197243a
+[I 13:55:26.599 NotebookApp] Kernel restarted: 989447ff-ed12-451d-a7c8-1d3aea481294
+[I 13:55:27.278 NotebookApp] Adapting to protocol v5.1 for kernel 989447ff-ed12-451d-a7c8-1d3aea481294
+[I 13:55:27.279 NotebookApp] Restoring connection for 989447ff-ed12-451d-a7c8-1d3aea481294:91f605f581404f689d2b9a868197243a
+[I 13:55:27.279 NotebookApp] Replaying 3 buffered messages
+2018-10-04 13:55:44.298979: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 13:56:49.867 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 13:58:49.867 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 14:05:22.357 NotebookApp] Creating new notebook in 
+[I 14:05:23.354 NotebookApp] Kernel started: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:05:24.397 NotebookApp] Adapting to protocol v5.1 for kernel 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:07:23.342 NotebookApp] Saving file at /basicbasic.ipynb
+[I 14:09:23.347 NotebookApp] Saving file at /basicbasic.ipynb
+2018-10-04 14:20:41.450919: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2018-10-04 14:21:00.912194: W tensorflow/core/framework/op_kernel.cc:1318] OP_REQUIRES failed at save_restore_v2_ops.cc:109 : Not found: ./demo/model; No such file or directory
+[I 14:21:16.003 NotebookApp] Creating new directory in 
+[I 14:21:24.233 NotebookApp] Saving file at /basicbasic.ipynb
+[I 14:21:28.327 NotebookApp] Creating new directory in /demo
+[W 14:21:46.503 NotebookApp] 400 GET /api/contents/demo/model/model.ckpt.meta?type=file&format=text&_=1538634106348 (::1): /Users/daiwenkai/Documents/my dirs/legacy/notebooks/demo/model/model.ckpt.meta is not UTF-8 encoded
+[W 14:21:46.505 NotebookApp] /Users/daiwenkai/Documents/my dirs/legacy/notebooks/demo/model/model.ckpt.meta is not UTF-8 encoded
+[W 14:21:46.505 NotebookApp] 400 GET /api/contents/demo/model/model.ckpt.meta?type=file&format=text&_=1538634106348 (::1) 3.05ms referer=http://localhost:8888/edit/demo/model/model.ckpt.meta
+[W 14:21:54.789 NotebookApp] 400 GET /api/contents/demo/model/model.ckpt.index?type=file&format=text&_=1538634114687 (::1): /Users/daiwenkai/Documents/my dirs/legacy/notebooks/demo/model/model.ckpt.index is not UTF-8 encoded
+[W 14:21:54.790 NotebookApp] /Users/daiwenkai/Documents/my dirs/legacy/notebooks/demo/model/model.ckpt.index is not UTF-8 encoded
+[W 14:21:54.790 NotebookApp] 400 GET /api/contents/demo/model/model.ckpt.index?type=file&format=text&_=1538634114687 (::1) 1.55ms referer=http://localhost:8888/edit/demo/model/model.ckpt.index
+[W 14:22:05.318 NotebookApp] 400 GET /api/contents/demo/model/model.ckpt.data-00000-of-00001?type=file&format=text&_=1538634125210 (::1): /Users/daiwenkai/Documents/my dirs/legacy/notebooks/demo/model/model.ckpt.data-00000-of-00001 is not UTF-8 encoded
+[W 14:22:05.318 NotebookApp] /Users/daiwenkai/Documents/my dirs/legacy/notebooks/demo/model/model.ckpt.data-00000-of-00001 is not UTF-8 encoded
+[W 14:22:05.319 NotebookApp] 400 GET /api/contents/demo/model/model.ckpt.data-00000-of-00001?type=file&format=text&_=1538634125210 (::1) 1.45ms referer=http://localhost:8888/edit/demo/model/model.ckpt.data-00000-of-00001
+[I 14:22:14.798 NotebookApp] New terminal with automatic name: 1
+[I 14:23:23.383 NotebookApp] Saving file at /basicbasic.ipynb
+[I 14:25:23.382 NotebookApp] Saving file at /basicbasic.ipynb
+[I 14:25:46.774 NotebookApp] Starting buffering for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:25:47.413 NotebookApp] Kernel restarted: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:25:48.317 NotebookApp] Adapting to protocol v5.1 for kernel 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:25:48.319 NotebookApp] Restoring connection for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:25:48.320 NotebookApp] Replaying 3 buffered messages
+2018-10-04 14:27:07.551603: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 14:27:23.392 NotebookApp] Saving file at /basicbasic.ipynb
+[I 14:27:47.510 NotebookApp] Starting buffering for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:27:48.036 NotebookApp] Kernel restarted: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:27:48.859 NotebookApp] Adapting to protocol v5.1 for kernel 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:27:48.860 NotebookApp] Restoring connection for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:27:48.861 NotebookApp] Replaying 6 buffered messages
+[I 14:27:48.960 NotebookApp] Kernel interrupted: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:27:51.288 NotebookApp] Starting buffering for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:27:51.612 NotebookApp] Kernel restarted: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:27:52.227 NotebookApp] Adapting to protocol v5.1 for kernel 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:27:52.229 NotebookApp] Restoring connection for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:27:52.229 NotebookApp] Replaying 6 buffered messages
+2018-10-04 14:27:59.768817: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 14:28:51.473 NotebookApp] Starting buffering for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:28:52.003 NotebookApp] Kernel restarted: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:28:52.831 NotebookApp] Adapting to protocol v5.1 for kernel 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:28:52.833 NotebookApp] Restoring connection for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:28:52.833 NotebookApp] Replaying 6 buffered messages
+2018-10-04 14:28:59.011162: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 14:29:07.074 NotebookApp] Starting buffering for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:29:07.807 NotebookApp] Kernel restarted: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:29:08.845 NotebookApp] Adapting to protocol v5.1 for kernel 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:29:08.847 NotebookApp] Restoring connection for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:29:08.847 NotebookApp] Replaying 6 buffered messages
+2018-10-04 14:29:11.660770: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 14:29:23.397 NotebookApp] Saving file at /basicbasic.ipynb
+[I 14:29:33.694 NotebookApp] Starting buffering for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:29:34.214 NotebookApp] Kernel restarted: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:29:35.087 NotebookApp] Adapting to protocol v5.1 for kernel 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:29:35.089 NotebookApp] Restoring connection for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:29:35.089 NotebookApp] Replaying 3 buffered messages
+2018-10-04 14:29:37.990579: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 14:29:51.259 NotebookApp] Starting buffering for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:29:51.783 NotebookApp] Kernel restarted: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:29:52.360 NotebookApp] Adapting to protocol v5.1 for kernel 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:29:52.361 NotebookApp] Restoring connection for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:29:52.361 NotebookApp] Replaying 6 buffered messages
+2018-10-04 14:31:02.628524: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 14:31:14.416 NotebookApp] Starting buffering for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:31:14.953 NotebookApp] Kernel restarted: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:31:15.741 NotebookApp] Adapting to protocol v5.1 for kernel 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:31:15.742 NotebookApp] Restoring connection for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:31:15.742 NotebookApp] Replaying 6 buffered messages
+2018-10-04 14:31:21.054715: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 14:31:23.398 NotebookApp] Saving file at /basicbasic.ipynb
+[I 14:31:46.627 NotebookApp] Starting buffering for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:31:47.153 NotebookApp] Kernel restarted: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:31:47.925 NotebookApp] Adapting to protocol v5.1 for kernel 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:31:47.927 NotebookApp] Restoring connection for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:31:47.927 NotebookApp] Replaying 6 buffered messages
+[I 14:31:49.207 NotebookApp] Starting buffering for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:31:49.535 NotebookApp] Kernel restarted: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:31:50.118 NotebookApp] Adapting to protocol v5.1 for kernel 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:31:50.120 NotebookApp] Restoring connection for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:31:50.120 NotebookApp] Replaying 3 buffered messages
+2018-10-04 14:32:03.042022: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 14:33:23.402 NotebookApp] Saving file at /basicbasic.ipynb
+[I 14:53:23.454 NotebookApp] Saving file at /tf-basic-saver.ipynb
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(120, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(120, 1)>
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/asyncio/events.py", line 127, in _run
+    self._callback(*self._args)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/platform/asyncio.py", line 122, in _handle_events
+    handler_func(fileobj, events)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/terminado/management.py", line 196, in pty_read
+    s = ptywclients.ptyproc.read(65536)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/ptyprocess/ptyprocess.py", line 819, in read
+    return self.decoder.decode(b, final=False)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py", line 321, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x80 in position 2: invalid start byte
+[I 14:55:23.456 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 14:56:47.874 NotebookApp] Starting buffering for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:56:48.501 NotebookApp] Kernel restarted: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:56:49.407 NotebookApp] Adapting to protocol v5.1 for kernel 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 14:56:49.409 NotebookApp] Restoring connection for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 14:56:49.410 NotebookApp] Replaying 5 buffered messages
+2018-10-04 14:56:52.447066: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 14:57:23.467 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 14:59:23.469 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 15:01:23.472 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 15:01:47.232 NotebookApp] Starting buffering for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 15:01:47.755 NotebookApp] Kernel restarted: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 15:01:48.704 NotebookApp] Adapting to protocol v5.1 for kernel 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 15:01:48.706 NotebookApp] Restoring connection for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 15:01:48.706 NotebookApp] Replaying 6 buffered messages
+2018-10-04 15:01:51.662731: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 15:02:50.142 NotebookApp] Starting buffering for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 15:02:50.669 NotebookApp] Kernel restarted: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 15:02:51.496 NotebookApp] Adapting to protocol v5.1 for kernel 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 15:02:51.498 NotebookApp] Restoring connection for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 15:02:51.498 NotebookApp] Replaying 6 buffered messages
+[I 15:03:23.475 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 15:04:04.884 NotebookApp] Starting buffering for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 15:04:05.204 NotebookApp] Kernel restarted: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 15:04:05.880 NotebookApp] Adapting to protocol v5.1 for kernel 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 15:04:05.881 NotebookApp] Restoring connection for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 15:04:05.881 NotebookApp] Replaying 6 buffered messages
+2018-10-04 15:04:53.332560: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 15:05:23.483 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 15:07:21.156 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 15:10:50.047 NotebookApp] Saving file at /tf-basic-mnist.ipynb
+[I 10:21:01.260 NotebookApp] Starting buffering for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 10:21:02.188 NotebookApp] Kernel restarted: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 10:21:03.038 NotebookApp] Adapting to protocol v5.1 for kernel 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[I 10:21:03.040 NotebookApp] Restoring connection for 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee:f16ef917887b46a99dc466c78404e674
+[I 10:21:03.040 NotebookApp] Replaying 3 buffered messages
+2018-10-06 10:21:07.846376: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 10:21:57.199 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 10:27:57.216 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 10:29:57.214 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 10:35:57.231 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 10:37:57.234 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 10:39:57.239 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 10:41:47.193 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 10:43:57.249 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 10:45:58.118 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 10:51:57.271 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 10:53:57.276 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 11:37:57.391 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 11:39:57.395 NotebookApp] Saving file at /tf-basic-saver.ipynb
++ ipython notebook
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+[I 19:31:49.845 NotebookApp] Serving notebooks from local directory: /Users/daiwenkai/git_daiwk/gt/notebooks
+[I 19:31:49.845 NotebookApp] The Jupyter Notebook is running at:
+[I 19:31:49.845 NotebookApp] http://localhost:8888/?token=2bfb7ec76eb54a8884ed5c01e14b2cd6f41d7bb893057308
+[I 19:31:49.845 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 19:31:49.849 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=2bfb7ec76eb54a8884ed5c01e14b2cd6f41d7bb893057308
+[I 19:31:50.108 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 19:31:51.982 NotebookApp] 404 GET /api/kernels/1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee/channels?session_id=f16ef917887b46a99dc466c78404e674 (::1): Kernel does not exist: 1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee
+[W 19:31:51.991 NotebookApp] 404 GET /api/kernels/1f5c067c-874d-4ca0-bdb7-4002a4d9d9ee/channels?session_id=f16ef917887b46a99dc466c78404e674 (::1) 20.28ms referer=None
+[W 19:31:52.820 NotebookApp] 404 GET /api/kernels/3724868b-b2ec-4a68-80ea-6be717eec5ca/channels?session_id=0dae71a6324748018d0092ebbe05c000 (::1): Kernel does not exist: 3724868b-b2ec-4a68-80ea-6be717eec5ca
+[W 19:31:52.821 NotebookApp] 404 GET /api/kernels/3724868b-b2ec-4a68-80ea-6be717eec5ca/channels?session_id=0dae71a6324748018d0092ebbe05c000 (::1) 3.61ms referer=None
+[W 19:32:24.044 NotebookApp] 404 GET /api/kernels/989447ff-ed12-451d-a7c8-1d3aea481294/channels?session_id=91f605f581404f689d2b9a868197243a (::1): Kernel does not exist: 989447ff-ed12-451d-a7c8-1d3aea481294
+[W 19:32:24.047 NotebookApp] 404 GET /api/kernels/989447ff-ed12-451d-a7c8-1d3aea481294/channels?session_id=91f605f581404f689d2b9a868197243a (::1) 5.60ms referer=None
+[I 19:32:31.570 NotebookApp] Kernel started: 1473d6b7-1fe3-4b87-98f8-03487355271b
+[I 19:32:32.649 NotebookApp] Adapting to protocol v5.1 for kernel 1473d6b7-1fe3-4b87-98f8-03487355271b
+[W 19:33:31.025 NotebookApp] Replacing stale connection: 989447ff-ed12-451d-a7c8-1d3aea481294:91f605f581404f689d2b9a868197243a
+[I 23:53:24.552 NotebookApp] Starting buffering for 1473d6b7-1fe3-4b87-98f8-03487355271b:d7d118066eab4ba98685965e95599e44
+[I 23:53:24.986 NotebookApp] Kernel restarted: 1473d6b7-1fe3-4b87-98f8-03487355271b
+[I 23:53:25.778 NotebookApp] Adapting to protocol v5.1 for kernel 1473d6b7-1fe3-4b87-98f8-03487355271b
+[I 23:53:25.780 NotebookApp] Restoring connection for 1473d6b7-1fe3-4b87-98f8-03487355271b:d7d118066eab4ba98685965e95599e44
+[I 23:53:25.780 NotebookApp] Replaying 3 buffered messages
+[I 23:54:32.024 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 00:06:22.124 NotebookApp] New terminal with automatic name: 1
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(42, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(42, 1)>
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/asyncio/events.py", line 127, in _run
+    self._callback(*self._args)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/platform/asyncio.py", line 122, in _handle_events
+    handler_func(fileobj, events)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/terminado/management.py", line 196, in pty_read
+    s = ptywclients.ptyproc.read(65536)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/ptyprocess/ptyprocess.py", line 819, in read
+    return self.decoder.decode(b, final=False)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py", line 321, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x9c in position 2: invalid start byte
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(42, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(42, 1)>
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/asyncio/events.py", line 127, in _run
+    self._callback(*self._args)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/platform/asyncio.py", line 122, in _handle_events
+    handler_func(fileobj, events)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/terminado/management.py", line 196, in pty_read
+    s = ptywclients.ptyproc.read(65536)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/ptyprocess/ptyprocess.py", line 819, in read
+    return self.decoder.decode(b, final=False)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py", line 321, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xcd in position 290: invalid continuation byte
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(42, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(42, 1)>
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/asyncio/events.py", line 127, in _run
+    self._callback(*self._args)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/platform/asyncio.py", line 122, in _handle_events
+    handler_func(fileobj, events)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/terminado/management.py", line 196, in pty_read
+    s = ptywclients.ptyproc.read(65536)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/ptyprocess/ptyprocess.py", line 819, in read
+    return self.decoder.decode(b, final=False)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py", line 321, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x81 in position 141: invalid start byte
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(42, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(42, 1)>
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/asyncio/events.py", line 127, in _run
+    self._callback(*self._args)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/platform/asyncio.py", line 122, in _handle_events
+    handler_func(fileobj, events)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/terminado/management.py", line 196, in pty_read
+    s = ptywclients.ptyproc.read(65536)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/ptyprocess/ptyprocess.py", line 819, in read
+    return self.decoder.decode(b, final=False)
+  File "/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py", line 321, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x93 in position 296: invalid start byte
+2018-10-07 00:16:11.819029: W tensorflow/core/util/tensor_slice_reader.cc:95] Could not open ./demo/model/model.ckpt.meta.json: Data loss: not an sstable (bad magic number): perhaps your file is in a different file format and you need to use a different restore operator?
+[I 00:16:32.085 NotebookApp] Saving file at /tf-basic-saver.ipynb
+2018-10-07 00:16:43.269639: W tensorflow/core/util/tensor_slice_reader.cc:95] Could not open ./demo/model/model.ckpt.meta: Data loss: not an sstable (bad magic number): perhaps your file is in a different file format and you need to use a different restore operator?
+[I 00:18:32.079 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 00:18:57.895 NotebookApp] Starting buffering for 1473d6b7-1fe3-4b87-98f8-03487355271b:d7d118066eab4ba98685965e95599e44
+[I 00:18:58.522 NotebookApp] Kernel restarted: 1473d6b7-1fe3-4b87-98f8-03487355271b
+[I 00:18:59.322 NotebookApp] Adapting to protocol v5.1 for kernel 1473d6b7-1fe3-4b87-98f8-03487355271b
+[I 00:18:59.324 NotebookApp] Restoring connection for 1473d6b7-1fe3-4b87-98f8-03487355271b:d7d118066eab4ba98685965e95599e44
+[I 00:18:59.324 NotebookApp] Replaying 3 buffered messages
+2018-10-07 00:19:03.722559: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 00:20:13.459 NotebookApp] Kernel interrupted: 1473d6b7-1fe3-4b87-98f8-03487355271b
+[I 00:20:15.561 NotebookApp] Starting buffering for 1473d6b7-1fe3-4b87-98f8-03487355271b:d7d118066eab4ba98685965e95599e44
+[I 00:20:16.085 NotebookApp] Kernel restarted: 1473d6b7-1fe3-4b87-98f8-03487355271b
+[I 00:20:16.951 NotebookApp] Adapting to protocol v5.1 for kernel 1473d6b7-1fe3-4b87-98f8-03487355271b
+[I 00:20:16.952 NotebookApp] Restoring connection for 1473d6b7-1fe3-4b87-98f8-03487355271b:d7d118066eab4ba98685965e95599e44
+[I 00:20:16.952 NotebookApp] Replaying 5 buffered messages
+2018-10-07 00:20:22.933013: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 00:20:32.093 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 10:40:34.131 NotebookApp] Saving file at /tf-basic-saver.ipynb
+[I 10:40:36.055 NotebookApp] Starting buffering for 1473d6b7-1fe3-4b87-98f8-03487355271b:d7d118066eab4ba98685965e95599e44
+[I 10:41:28.776 NotebookApp] Kernel started: 8d0b8704-0b44-4fe5-ac53-3b2763db9206
+[I 10:41:29.944 NotebookApp] Adapting to protocol v5.1 for kernel 8d0b8704-0b44-4fe5-ac53-3b2763db9206
+[I 10:42:52.780 NotebookApp] Saving file at /mnist_inference.py
+[I 10:49:23.364 NotebookApp] Saving file at /mnist_inference.py
+[I 10:54:34.554 NotebookApp] Saving file at /mnist_train.py
+[I 11:18:56.479 NotebookApp] Starting buffering for 8d0b8704-0b44-4fe5-ac53-3b2763db9206:8d8dfa2f940645edbb5ec799d2775e31
+[C 00:16:56.375 NotebookApp] received signal 15, stopping
+[I 00:16:56.389 NotebookApp] Shutting down 2 kernels
+[I 00:16:57.228 NotebookApp] Kernel shutdown: 1473d6b7-1fe3-4b87-98f8-03487355271b
+[I 00:16:57.229 NotebookApp] Kernel shutdown: 8d0b8704-0b44-4fe5-ac53-3b2763db9206
