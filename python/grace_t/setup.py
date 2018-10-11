@@ -17,7 +17,7 @@ setup(
     license='BSD License',
     packages=find_packages(),
     platforms=["all"],
-    url='https://github.com/daiwk/gt',
+    url='https://github.com/daiwk/grace_t',
     classifiers=[
         'Development Status :: 4 - Beta',
         'Operating System :: OS Independent',
