@@ -1,14 +1,11 @@
-cc_library(
-    name = "hello-greet",
-    srcs = ["hello-greet.cc"],
-    hdrs = ["hello-greet.h"],
-)
-
 cc_binary(
-    name = "hello-world",
-    srcs = ["hello-world.cc"],
+    name = "main_ptrs",
+    srcs = ["main_ptrs.cc"],
     deps = [
-        ":hello-greet",
-        "//lib:hello-time",
+#        ":hello-greet",
+        "//lib:ptrs_unique_ptr_util",
     ],
+    linkopts = [
+        "-std=c++11",
+    ], 
 )

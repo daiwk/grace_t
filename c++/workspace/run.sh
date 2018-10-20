@@ -1,1 +1,3 @@
-bazel build //main:hello-world
+rm -rf ./bazel-*
+#bazel build //main:main_ptrs
+bazel build //...
