@@ -32,7 +32,7 @@ int func_unique_ptr() {
     // up放弃对它所指对象的控制权，并返回保存的指针，将up置为空，不会释放内存
     up.release();
 
-    //释放up指向的对象，将up置为空
+    //释放up指向的对象，将up置为空== up.reset();
     up = nullptr;
 
     int *x(new int());
