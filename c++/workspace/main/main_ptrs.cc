@@ -18,6 +18,9 @@
 
 int main()
 {
+
+    std::unique_ptr<int> up(new int(10));
+    grace_t::ptrs::func3(up);
     return 0;
 }
 
