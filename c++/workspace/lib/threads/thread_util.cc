@@ -19,7 +19,15 @@ namespace grace_t {
 namespace lib {
 namespace threads {
 
+void output(int i)
+{
+    std::cout << i << std::endl;
+}
 
+
+void TaskSimple::operator() (int i) {
+    std::cout << i << std::endl;
+}
 
 }
 }
