@@ -1,3 +1,4 @@
+# ptrs
 cc_library(
     name = "ptrs_unique_ptr_util",
     srcs = ["ptrs/unique_ptr_util.cc"],
@@ -13,9 +14,18 @@ cc_library(
 )
 
 
+# exceptions
 cc_library(
     name = "exceptions_exceptions",
     srcs = ["exceptions/exceptions.cc"],
     hdrs = ["exceptions/exceptions.h"],
+    visibility = ["//main:__pkg__"],
+)
+
+# threads
+cc_library(
+    name = "threads_thread_util",
+    srcs = ["threads/thread_util.cc"],
+    hdrs = ["threads/thread_util.h"],
     visibility = ["//main:__pkg__"],
 )
