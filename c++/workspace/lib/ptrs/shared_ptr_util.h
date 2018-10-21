@@ -13,10 +13,11 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ==============================================================================*/
 
-// refers to https://blog.csdn.net/qq_33266987/article/details/78784286
+// refers to https://www.cnblogs.com/lsgxeva/p/7788061.html
+// refers to https://www.cnblogs.com/diysoul/p/5930361.html
 
-#ifndef GRACE_T_LIB_PTRS_UNIQUE_PTR_UTIL_H
-#define GRACE_T_LIB_PTRS_UNIQUE_PTR_UTIL_H
+#ifndef GRACE_T_LIB_PTRS_SHARED_PTR_UTIL_H
+#define GRACE_T_LIB_PTRS_SHARED_PTR_UTIL_H
 
 #include <memory>
 #include <iostream>
@@ -25,15 +26,7 @@ namespace grace_t {
 namespace lib {
 namespace ptrs {
 
-//从函数返回一个unique_ptr
-std::unique_ptr<int> func1(int a);
- 
-//返回一个局部对象的拷贝
-std::unique_ptr<int> func2(int a);
 
-void func3(std::unique_ptr<int> &up);
-
-std::unique_ptr<int> func4(std::unique_ptr<int> up);
 
 }
 }

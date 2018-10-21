@@ -4,6 +4,7 @@ cc_binary(
     deps = [
 #        ":hello-greet",
         "//lib:ptrs_unique_ptr_util",
+        "//lib:ptrs_shared_ptr_util",
     ],
     linkopts = [
         "-std=c++11",
