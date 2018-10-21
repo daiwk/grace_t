@@ -1,18 +1,19 @@
-/***************************************************************************
- * 
- * Copyright (c) 2018 Baidu.com, Inc. All Rights Reserved
- * $Id$ 
- * 
- **************************************************************************/
+/*Copyright 2018 The grace_t Authors. All Rights Reserved.
+ 
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+ 
+http://www.apache.org/licenses/LICENSE-2.0
+ 
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+==============================================================================*/
 
-/**
- * @file ./main/hello-world.cc
- * @author wkdai(wkdai@baidu.com)
- * @date 2018/10/20 20:40:27
- * @version $Revision$ 
- * @brief 
- *  
- **/
+
 #include <iostream>
 #include "lib/ptrs/unique_ptr_util.h"
 
@@ -25,10 +26,10 @@ int func_unique_ptr() {
 
     std::unique_ptr<int> up(new int(10));
     // 传引用，不拷贝，不涉及所有权的转移
-    grace_t::ptrs::func3(up);
+    grace_t::lib::ptrs::func3(up);
     // 暂时转移所有权，函数结束时返回拷贝，重新收回所有权
     // 如果不用up重新接受func2的返回值，这块内存就泄漏了
-    up = grace_t::ptrs::func4(std::unique_ptr<int> (up.release()));
+    up = grace_t::lib::ptrs::func4(std::unique_ptr<int> (up.release()));
     // up放弃对它所指对象的控制权，并返回保存的指针，将up置为空，不会释放内存
     up.release();
 
@@ -52,4 +53,3 @@ int main()
     return 0;
 }
 
-/* vim: set ts=4 sw=4 sts=4 tw=100 */

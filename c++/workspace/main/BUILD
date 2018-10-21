@@ -9,3 +9,15 @@ cc_binary(
         "-std=c++11",
     ], 
 )
+
+cc_binary(
+    name = "main_exceptions",
+    srcs = ["main_exceptions.cc"],
+    deps = [
+#        ":hello-greet",
+        "//lib:exceptions_exceptions",
+    ],
+    linkopts = [
+        "-std=c++11",
+    ], 
+)

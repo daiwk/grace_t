@@ -13,37 +13,51 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ==============================================================================*/
 
-#include "unique_ptr_util.h"
+#include "exceptions.h"
 
 namespace grace_t {
 namespace lib {
-namespace ptrs {
+namespace exceptions {
 
-
-//从函数返回一个unique_ptr
-std::unique_ptr<int> func1(int a)
+void handle_eptr(std::exception_ptr eptr) // passing by value is ok
 {
-    return std::unique_ptr<int> (new int(a));
-}
- 
-//返回一个局部对象的拷贝
-std::unique_ptr<int> func2(int a)
-{
-    std::unique_ptr<int> up(new int(a));
-    return up;
-}
-
-void func3(std::unique_ptr<int> &up){
-    std::cout << *up << std::endl;
+    try {
+        if (eptr) {
+            std::rethrow_exception(eptr);
+        }
+    } catch(const std::exception& e) {
+        std::cout << "Caught exception \"" << e.what() << "\"\n";
+    }
 }
 
-std::unique_ptr<int> func4(std::unique_ptr<int> up){
-    std::cout << *up << std::endl;
-    return up;
+void Throw(){
+    throw MyException();
+}
+
+void NoBlockThrow(){
+    Throw();
+}
+
+void BlockThrow() noexcept{
+    Throw();
+}
+
+int funA() {
+    A a; 
+    return 0;
+}
+
+int funB() {
+    B b; 
+    return 0;
+}
+
+int funC() {
+    C c; 
+    return 0;
 }
 
 
 }
 }
 }
-
