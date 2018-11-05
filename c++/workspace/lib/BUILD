@@ -13,6 +13,13 @@ cc_library(
     visibility = ["//main:__pkg__"],
 )
 
+# time
+cc_library(
+    name = "time_time",
+    srcs = ["time/time.cc"],
+    hdrs = ["time/time.h"],
+    visibility = ["//main:__pkg__"],
+)
 
 # exceptions
 cc_library(

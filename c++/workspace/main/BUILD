@@ -38,3 +38,15 @@ cc_binary(
     ], 
 )
 
+# main_time
+cc_binary(
+    name = "main_time",
+    srcs = ["main_time.cc"],
+    deps = [
+        "//lib:time_time",
+    ],
+    linkopts = [
+        "-std=c++11",
+    ], 
+)
+
