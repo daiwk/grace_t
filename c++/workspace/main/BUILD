@@ -61,3 +61,14 @@ cc_binary(
     ], 
 )
 
+# main_others
+cc_binary(
+    name = "main_others",
+    srcs = ["main_others.cc"],
+    deps = [
+    ],
+    linkopts = [
+        "-std=c++11",
+    ], 
+)
+
