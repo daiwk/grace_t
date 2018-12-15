@@ -1,3 +1,5 @@
+[TOC]
+
 # 数据格式
 
 输入数据格式(例如,sentence1是att list，sentence2是title，其实倒过来可能更make sense)
