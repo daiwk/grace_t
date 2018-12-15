@@ -15,7 +15,7 @@ offline模式，即输入一个数据集，进行预训练
 然后运行
 
 ```shell
-sh -x run_train_bert_once.sh
+sh -x scripts/run_train_bert_once.sh
 ```
 
 大致的结果：
@@ -34,19 +34,21 @@ sh -x run_train_bert_once.sh
 抽news
 
 ```shell
-sh -x run_extract_feature_bert_hadoop.sh dict/news_title ./output/news_json_bert news
+sh -x scripts/run_extract_feature_bert_hadoop.sh dict/news_title ./output/news_json_bert news
 ```
 
 抽miniapp
+
 ```shell
-sh -x run_extract_feature_bert_hadoop.sh dict/miniapp_title ./output/miniapp_json_bert miniapp
+sh -x scripts/run_extract_feature_bert_hadoop.sh dict/miniapp_title ./output/miniapp_json_bert miniapp
+```
 
 ## 建annoy
 
 因为要读所有id并建成一个annoy库，所以需要在本地跑
 
 ```shell
-sh -x build_miniapp_bert_annoy.sh ./output/miniapp_json_bert ./dict/bert_miniapp.annoy ./dict/bert_miniapp_idx 768
+sh -x scripts/build_miniapp_bert_annoy.sh ./output/miniapp_json_bert ./dict/bert_miniapp.annoy ./dict/bert_miniapp_idx 768
 ```
 
 ## 查找相似
@@ -54,6 +56,6 @@ sh -x build_miniapp_bert_annoy.sh ./output/miniapp_json_bert ./dict/bert_miniapp
 可以在集群跑
 
 ```shell
-sh -x run_get_nearest_bert_hadoop.sh ./output/annoy_res_with_bert.all.hdfs
+sh -x scripts/run_get_nearest_bert_hadoop.sh ./output/annoy_res_with_bert.all.hdfs
 ```
 
