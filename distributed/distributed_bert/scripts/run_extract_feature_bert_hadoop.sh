@@ -63,7 +63,7 @@ hadoop streaming  \
     -jobconf mapred.job.reduce.capacity=2000        \
     -jobconf mapred.reduce.tasks=2000                \
     -jobconf stream.memory.limit=2000 \
-    -jobconf mapred.job.queue.name=feed_plat \
+    -jobconf mapred.job.queue.name=xxxx \
     -jobconf mapred.job.priority=${JOB_PRI}
 
 [[ $? -ne 0 ]] && exit 1
