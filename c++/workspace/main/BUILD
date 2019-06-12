@@ -72,3 +72,15 @@ cc_binary(
     ], 
 )
 
+# main_containers
+cc_binary(
+    name = "main_containers",
+    srcs = ["main_containers.cc"],
+    deps = [
+        "//lib:containers_heap_demo",
+    ],
+    linkopts = [
+        "-std=c++11",
+    ], 
+)
+

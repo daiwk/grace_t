@@ -36,3 +36,11 @@ cc_library(
     hdrs = ["threads/thread_util.h"],
     visibility = ["//main:__pkg__"],
 )
+
+# containers
+cc_library(
+    name = "containers_heap_demo",
+    srcs = [],
+    hdrs = ["containers/heap_demo.h"],
+    visibility = ["//main:__pkg__"],
+)
