@@ -7,6 +7,7 @@ Subpackages
 .. toctree::
 
     grace_t.framework
+    grace_t.plugins
     grace_t.scripts
 
 Submodules
