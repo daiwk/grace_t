@@ -20,6 +20,14 @@ grace\_t.framework.tools.log module
     :undoc-members:
     :show-inheritance:
 
+grace\_t.framework.tools.mmr module
+-----------------------------------
+
+.. automodule:: grace_t.framework.tools.mmr
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
 grace\_t.framework.tools.rank\_metrics module
 ---------------------------------------------
 

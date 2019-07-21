@@ -28,10 +28,26 @@ grace\_t.scripts.keras\_multi\_demo module
     :undoc-members:
     :show-inheritance:
 
+grace\_t.scripts.pure\_keras\_demo module
+-----------------------------------------
+
+.. automodule:: grace_t.scripts.pure_keras_demo
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
 grace\_t.scripts.xgboost\_demo module
 -------------------------------------
 
 .. automodule:: grace_t.scripts.xgboost_demo
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+grace\_t.scripts.xgboost\_plot module
+-------------------------------------
+
+.. automodule:: grace_t.scripts.xgboost_plot
     :members:
     :undoc-members:
     :show-inheritance:
